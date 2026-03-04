@@ -1,3 +1,3 @@
 ## Hoi, selamat datang 👋 
 
-I like making little pieces of functional magic (aka software) that might spark something useful for you too.
+I like creating little spells of functional magic (aka software) that might spark something useful for you.
